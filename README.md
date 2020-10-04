@@ -4,7 +4,7 @@ You can contribute to this repo by adding Coding Question with Solutions in any 
 # Hacktoberfest 2020
 ![img](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
 
-A repository where you can upload any code in any language of your choice. Feel Free to add your code here :)
+A repository where you can upload any coding question for any company in any language of your choice. Feel Free to add your code here :)
 
 
 ## Steps to Contribute
