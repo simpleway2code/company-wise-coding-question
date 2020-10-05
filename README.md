@@ -4,7 +4,7 @@ You can contribute to this repo by adding Coding Question with Solutions in any 
 # Hacktoberfest 2020
 ![img](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
 
-A repository where you can upload any coding question for any company in any language of your choice. Feel Free to add your code here :)
+A repository where you can upload Company Wise Coding Question in any language of your choice. Feel Free to add your code here :)
 
 
 ## Steps to Contribute
@@ -34,7 +34,10 @@ git push origin master
 
 ## Rules for making changes to this repository
 
-Choose any Company's Coding question + Solution in any programming language you would like to contribute to , find its respective folder and add the code to it. If the folder is not present , then create the folder with the name of the Company.
+Choose any Company's Coding question + Solution in any programming language you would like to contribute to , find its respective folder and add the code to it. If the folder is not present , then create the folder with the name of the Company. 
+
+#### Format : `<FOLDER_NAME>/<fileName>.<extention>`
+Example: If you are contributing a question for AMAZON, then inside AMAZON folder add your solution like `problemName.C`, `problemName.java`, `problemName.cpp` etc.
 
 ## Resources
 1. Markdown : Markdown is a lightweight markup language like HTML, with plain text formatting syntax. 
