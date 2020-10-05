@@ -5,7 +5,7 @@ import java.util.Arrays;
 */
 
 
-public class InversionCountOfAnArray {
+class Main {
 
 	// Merge two sorted subarrays arr[low .. mid] and arr[mid + 1 .. high]
 	public static int merge(int[] arr, int[] aux, int low, int mid, int high)
