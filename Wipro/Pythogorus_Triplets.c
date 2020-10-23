@@ -10,8 +10,8 @@ Output : 3 4 5
 
 // A C program to generate pythagorean triplets
 // smaller than a given limit
-#include 
-#include
+#include <conio.h>
+#include <stdio.h>
 
 //  Function to generate pythagorean triplets
 //  smaller than limit
