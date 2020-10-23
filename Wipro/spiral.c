@@ -14,7 +14,7 @@ Input:
 Output: 
 1 2 3 4 5 6 12 18 17 16 15 14 13 7 8 9 10 11
 */
-#include 
+#include <stdio.h>
 #define R 3
 #define C 6
 void spiralPrint(int m, int n, int a[R][C])
