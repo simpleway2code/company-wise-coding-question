@@ -1,3 +1,8 @@
+/*   So the input "Miss Mississippi" will break down to the following substrings:
+*    M | Mi | Mis | Miss | Miss | Miss M | Miss Mi | Miss Mis | etc....
+*    It will count if "is" is in each substring
+*/
+
 public class McountSubstringsStartingWith {
     public static int countSubstringsStartingWith(String sentence, String target) {
         int count = 0;
