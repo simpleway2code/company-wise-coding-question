@@ -1,7 +1,7 @@
 # company-wise-coding-question
 You can contribute to this repo by adding Coding Question with Solutions in any programming language
 
-# Hacktoberfest 2021
+# Hacktoberfest 2022
 ![img](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg?image_crop_resized=960x540)
 
 A repository where you can upload Company Wise Coding Question in any language of your choice. Feel Free to add your code here :)
